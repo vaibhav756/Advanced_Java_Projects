@@ -1,0 +1,158 @@
+2023-05-10 17:04:59.270 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718499270 sessioncount 0
+2023-05-10 17:04:59.286 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 8 expired sessions: 0
+2023-05-10 17:06:05.584 DEBUG 15460 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718565584 sessioncount 0
+2023-05-10 17:06:05.584 DEBUG 15460 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 0 expired sessions: 0
+2023-05-10 17:07:05.629 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718625629 sessioncount 0
+2023-05-10 17:07:05.629 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 0 expired sessions: 0
+2023-05-10 17:08:05.676 DEBUG 15460 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718685676 sessioncount 0
+2023-05-10 17:08:05.678 DEBUG 15460 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 2 expired sessions: 0
+2023-05-10 17:09:05.733 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718745733 sessioncount 0
+2023-05-10 17:09:05.733 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 0 expired sessions: 0
+2023-05-10 17:10:05.781 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718805781 sessioncount 0
+2023-05-10 17:10:05.781 DEBUG 15460 --- [Catalina-utility-2] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 0 expired sessions: 0
+2023-05-10 17:11:05.845 DEBUG 15460 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1683718865845 sessioncount 0
+2023-05-10 17:11:05.845 DEBUG 15460 --- [Catalina-utility-1] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 0 expired sessions: 0
+2023-05-10 17:11:17.555 DEBUG 15460 --- [RMI TCP Connection(1)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(1)-127.0.0.1: accepted socket from [127.0.0.1:57460]
+2023-05-10 17:11:17.560 DEBUG 15460 --- [RMI TCP Connection(1)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(1)-127.0.0.1: (port 52498) op = 80
+2023-05-10 17:11:18.249 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: accepted socket from [127.0.0.1:57462]
+2023-05-10 17:11:18.249 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: (port 52499) op = 80
+2023-05-10 17:11:18.254 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "[Ljava.rmi.server.ObjID;", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.266 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.ObjID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.268 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.UID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.269 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.Lease", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.270 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.VMID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.272 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "[B", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.277 DEBUG 15460 --- [RMI TCP Connection(1)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(1)-127.0.0.1: (port 52498) op = 82
+2023-05-10 17:11:18.277 DEBUG 15460 --- [RMI TCP Connection(1)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(1)-127.0.0.1: (port 52498) op = 84
+2023-05-10 17:11:18.277 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: (port 52499) op = 80
+2023-05-10 17:11:18.296 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: (port 52499) op = 80
+2023-05-10 17:11:18.296 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "[Ljava.rmi.server.ObjID;", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.296 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.ObjID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.296 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.server.UID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.296 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.Lease", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.297 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.dgc.VMID", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.297 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "[B", codebase = "", defaultLoader = sun.misc.Launcher$ExtClassLoader@af9a89f
+2023-05-10 17:11:18.298 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: (port 52499) op = 84
+2023-05-10 17:11:18.298 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: (port 52499) op = 80
+2023-05-10 17:11:18.301 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.transport.tcp                    : RMI TCP Connection(2)-127.0.0.1: (port 52499) op = 80
+2023-05-10 17:11:18.301 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "javax.management.ObjectName", codebase = ""
+2023-05-10 17:11:18.302 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] sun.rmi.loader                           : RMI TCP Connection(2)-127.0.0.1: name = "java.rmi.MarshalledObject", codebase = ""
+2023-05-10 17:11:18.309  INFO 15460 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-05-10 17:11:18.311 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2023-05-10 17:11:18.312 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5fbe4146, started on Wed Apr 26 10:38:36 IST 2023
+2023-05-10 17:11:18.313 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] ySourcesPropertyResolver$DefaultResolver : Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2023-05-10 17:11:18.321 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2023-05-10 17:11:18.325 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerGracefulShutdown' completed its stop procedure
+2023-05-10 17:11:18.325 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483646
+2023-05-10 17:11:18.517 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] org.apache.tomcat.util.net.NioEndpoint   : About to unlock socket for:/0:0:0:0:0:0:0:1:8081
+2023-05-10 17:11:18.521 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] org.apache.tomcat.util.net.NioEndpoint   : Socket unlock completed for:/0:0:0:0:0:0:0:1:8081
+2023-05-10 17:11:18.528  INFO 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-05-10 17:11:18.531 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.mapper.MapperListener  : Unregister host [localhost] at domain [null] for service [StandardService[Tomcat]]
+2023-05-10 17:11:18.532 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.mapper.MapperListener  : Unregister Context [] for service [StandardService[Tomcat]]
+2023-05-10 17:11:18.532 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.mapper.MapperListener  : Unregister Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Stopping filters
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Stopping filter 'requestContextFilter'
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.core.ApplicationFilterConfig       : JMX de-registration complete for filter of type [org.springframework.boot.web.servlet.filter.OrderedRequestContextFilter] and name [requestContextFilter]
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Stopping filter 'Tomcat WebSocket (JSR356) Filter'
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.core.ApplicationFilterConfig       : JMX de-registration complete for filter of type [org.apache.tomcat.websocket.server.WsFilter] and name [Tomcat WebSocket (JSR356) Filter]
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Stopping filter 'characterEncodingFilter'
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.core.ApplicationFilterConfig       : JMX de-registration complete for filter of type [org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter] and name [characterEncodingFilter]
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       :  Stopping filter 'formContentFilter'
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.core.ApplicationFilterConfig       : JMX de-registration complete for filter of type [org.springframework.boot.web.servlet.filter.OrderedFormContentFilter] and name [formContentFilter]
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.catalina.session.StandardManager     : Stopping
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.catalina.session.StandardManager     : Unloading persisted sessions
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.catalina.session.StandardManager     : No persisted sessions to unload
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardContext   : Sending application stop events
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardContext   : Processing standard container shutdown
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.loader.WebappLoader  : Stopping this Loader
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : getResourceAsStream(org/apache/catalina/loader/JdbcLeakPrevention.class)
+2023-05-10 17:11:18.533 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       :   Delegating to parent classloader sun.misc.Launcher$AppClassLoader@764c12b6
+2023-05-10 17:11:18.543 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       :   --> Returning stream from parent
+2023-05-10 17:11:18.549  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.549  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.549  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.549  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.549  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.549  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.552  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.552  WARN 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-8] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2023-05-10 17:11:18.556 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardContext   : resetContext Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+2023-05-10 17:11:18.556 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardContext   : Stopping complete
+2023-05-10 17:11:18.561 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] org.apache.tomcat.util.net.NioEndpoint   : Destroy initiated for 0.0.0.0/0.0.0.0:8081
+2023-05-10 17:11:18.562 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] org.apache.tomcat.util.net.NioEndpoint   : Destroy completed for 0.0.0.0/0.0.0.0:8081
+2023-05-10 17:11:18.563 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerStartStop' completed its stop procedure
+2023-05-10 17:11:18.563 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase -2147483647
+2023-05-10 17:11:18.563 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.c.support.DefaultLifecycleProcessor  : Bean 'springBootLoggingLifecycle' completed its stop procedure
+2023-05-10 17:11:18.565 DEBUG 15460 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

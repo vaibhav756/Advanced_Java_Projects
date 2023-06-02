@@ -1,0 +1,12 @@
+package com;
+
+import javax.servlet.http.HttpServlet;
+
+public class welcome extends HttpServlet{
+
+	public void doGet(HttpServletRequest request,HttpServletResponse response)
+	{
+		
+	}
+	
+}

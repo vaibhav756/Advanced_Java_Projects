@@ -1,0 +1,13 @@
+package com;
+
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/")
+public class initialservlet extends HttpServlet{
+
+	public void doGet()
+	{
+		
+	}
+	
+}
