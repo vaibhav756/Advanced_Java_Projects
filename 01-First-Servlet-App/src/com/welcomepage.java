@@ -31,8 +31,6 @@ public class welcomepage extends HttpServlet {
 		// TODO Auto-generated method stub
 		PrintWriter writer = response.getWriter();
 		writer.append("<h1>This is welcome page</h1>");
-		
-		
 	}
 
 	/**

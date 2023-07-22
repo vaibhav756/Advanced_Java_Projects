@@ -9,7 +9,7 @@ public class InsertBook {
 	private static final String DB_URL="jdbc:mysql://localhost:3306/advjava";
 	private static final String DB_USERNAME="vaibhav";
 	private static final String DB_PWD="vaibhav";
-	private static String InsertQuery="INSERT INTO BOOKS VALUES(103,'Spring',7000)";
+	private static String InsertQuery="INSERT INTO BOOKS VALUES(114,'Spring',7000)";
 	
 	public static void main(String[] args)throws Exception {
 
